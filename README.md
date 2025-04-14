@@ -2,7 +2,7 @@
 
 # Educational Financial Dashboard Simulation
 
-![Dashboard Demo](https://via.placeholder.com/800x400?text=Interactive+Market+Simulation+Dashboard)
+
 
 **Academic Disclaimer**: This project is a purely educational simulation developed for practicing web development skills. All market data is artificially generated and should not be used for financial decisions.
 
